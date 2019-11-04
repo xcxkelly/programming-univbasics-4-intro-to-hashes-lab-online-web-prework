@@ -1,6 +1,6 @@
 def new_hash
 new_hash: = {
-  :created
+  :created => Cars
 }
 end
 
